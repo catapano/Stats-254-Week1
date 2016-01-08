@@ -1,0 +1,12 @@
+---
+title: "Stats 254 - Week 1 Assignment"
+author: "Rhia Catapano"
+date: "January 7, 2016"
+output: html_document
+---
+
+This is an r Markdown document that I'm using to practice adding to my github repository.
+
+```{r}
+summary(cars)
+```
