@@ -3,8 +3,8 @@ This is the first problem set for [Stanford Psych 254](http://web.stanford.edu/c
 
 ##Assignment Goals
 The main goal of this assignment were:
-* to gain a working understanding of git and github
-* to be able to use github for version control by pushing updates and viewing version histories
+* to gain a working understanding of git and github.
+* to be able to use github for version control by pushing updates and viewing version histories.
 
 ##Implementation
 I originally used the terminal, but found that although the desktop has a big learning curve, its significantly more intuitive for non-power users.
